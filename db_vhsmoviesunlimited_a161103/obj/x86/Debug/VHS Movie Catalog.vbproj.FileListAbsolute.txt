@@ -1,0 +1,3 @@
+C:\Users\mf\Desktop\db_vhsmoviesunlimited_a161103\db_vhsmoviesunlimited_a161103\obj\x86\Debug\db_vhsmoviesunlimited_a161103.exe
+C:\Users\mf\Desktop\db_vhsmoviesunlimited_a161103\db_vhsmoviesunlimited_a161103\obj\x86\Debug\db_vhsmoviesunlimited_a161103.xml
+C:\Users\mf\Desktop\db_vhsmoviesunlimited_a161103\db_vhsmoviesunlimited_a161103\obj\x86\Debug\db_vhsmoviesunlimited_a161103.pdb
