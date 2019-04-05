@@ -1,5 +1,5 @@
 # Project
-VHSUnlimited project develop by using Visual Studio 2007 and it is part of the assignment for the Advanced Database Course.  
+VHSUnlimited project develop by using Visual Studio 2007 and it is part of the assignment for the Advanced Database Course in UKM.  
 
 ### Git Clone project
 https://github.com/mengfong96/VHSUnlimited.git
